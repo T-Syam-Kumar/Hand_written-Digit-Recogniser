@@ -1,4 +1,4 @@
-# 🧠 Handwritten Digit Classifier (MNIST)
+#  Handwritten Digit Classifier (MNIST)
 
 A handwritten digit recognition project built using **PyTorch** and **Gradio**.  
 This application allows users to **upload an image** or **use a webcam** to predict handwritten digits (0–9).
@@ -7,7 +7,7 @@ The project is designed to run smoothly in **Google Colab** and can also be depl
 
 ---
 
-## ✨ Features
+##  Features
 
 - Upload handwritten digit images
 - Predict digits using webcam input
@@ -18,7 +18,7 @@ The project is designed to run smoothly in **Google Colab** and can also be depl
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 - Framework: **PyTorch**
 - Architecture:
