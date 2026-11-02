@@ -1,4 +1,4 @@
-#  Handwritten Digit Classifier (MNIST)
+#  Handwritten Digit Classifier (MNIST - DataSet)
 
 A handwritten digit recognition project built using **PyTorch** and **Gradio**.  
 This application allows users to **upload an image** or **use a webcam** to predict handwritten digits (0–9).
