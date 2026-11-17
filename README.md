@@ -7,7 +7,7 @@ The project is designed to run smoothly in **Google Colab** and can also be depl
 
 ---
 
-##  Features
+##  Features 
 
 - Upload handwritten digit images
 - Predict digits using webcam input
